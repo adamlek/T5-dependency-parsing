@@ -10,5 +10,5 @@ Experimental model and fine-tuning on generative dependency parsing with T5
 # Also included:
 `Transformer/`: the transformer I implemented myself
 
-# Also not included, but a nice project:
+# Not included, but a nice project:
 https://github.com/adamlek/multilingual-morphological-inflection
